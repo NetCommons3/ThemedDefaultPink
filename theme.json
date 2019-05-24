@@ -1,0 +1,20 @@
+{
+    "name": "Classic Pink",
+    "description": "NetCommons3 Themed Classic Pink",
+    "version": "3.0.0",
+    "homepage" : "https://github.com/NetCommons3/NetCommons3",
+    "authors": [
+        {
+            "name": "catchball21",
+            "homepage": "https://www.cb21.co.jp"
+        }
+    ],
+    "license": "NetCommons License",
+    "keywords": ["classic"],
+    "dependencies": {
+        "bootstrap": "~3.1",
+        "jquery": "~2.1",
+        "NetCommons3": "~1.0"
+    }
+}
+

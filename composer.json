@@ -1,0 +1,24 @@
+{
+    "name": "netcommons-themed/default-pink",
+    "description": "NetCommons3 Themed Classic Pink",
+    "homepage": "http://www.netcommons.org/",
+    "extra": {
+        "installer-types": ["netcommons-theme"],
+        "installer-name": "DefaultPink",
+        "installer-paths": {
+            "app/View/Themed/{$name}": ["type:netcommons-theme"]
+        }
+    },
+    "require": {
+        "oomphinc/composer-installers-extender": "~1.1"
+    },
+    "license": "researchmap license",
+    "authors": [
+        {
+            "name": "NetCommons Community",
+            "homepage": "http://www.netcommons.org"
+        }
+    ],
+    "type": "netcommons-theme",
+    "keywords": ["cakephp", "netcommons", "theme"]
+}
